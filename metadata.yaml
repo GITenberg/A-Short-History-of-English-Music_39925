@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40310
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Ford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39925#A-Short-History-of-English-Music
 gutenberg_issued: '2012-06-05'
 gutenberg_type: Text
 identifiers:
